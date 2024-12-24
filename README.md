@@ -10,9 +10,9 @@ I dedicate my time to learning and improving as much as I can
 -------------------
 
 - 🔭 I’m currently working on
-  -  [Poker Plan'em](pokerplanem.com): A scrum planning tool!
-  -  [Personalyisus.io](personalyisus.io): My personal page!
-  -  [Unnecessary abstractions)](https://www.npmjs.com/package/eslint-plugin-unnecessary-abstractions): An ESLint plugin for when DRY goes too far
+  -  [Poker Plan'em](https://www.pokerplanem.com): A scrum planning tool!
+  -  [Personalyisus.io](https://personalyisus.io/): My personal page!
+  -  [Unnecessary abstractions](https://www.npmjs.com/package/eslint-plugin-unnecessary-abstractions): An ESLint plugin for when DRY goes too far
   -  ????
   -  Whatever I need to be working on to put bread on the table (:
 - 🌱 I’m currently learning
